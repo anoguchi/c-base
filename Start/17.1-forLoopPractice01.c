@@ -17,7 +17,6 @@ Output
 
 int main()
 {
-   //Edit below this line
    int i;
    int n = 15;
    for(i = 1; i <= n; i++)

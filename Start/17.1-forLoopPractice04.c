@@ -15,7 +15,6 @@ Output
 
 int main()
 {
-   //Edit below this line
    int i;
    int n = 8;
    int sum = 0;
