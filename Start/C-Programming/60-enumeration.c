@@ -7,7 +7,6 @@ int main()
   int diff = Saturday - Sunday;
 
   printf("%d\n", diff);
-  prntf("%d\n", diff);
   
   return 0;
 }
